@@ -59,9 +59,7 @@ PREVISAO_DE_CHURN/
   - Normalização/Padronização
 - Divisão entre treino e teste
 - Treinamento de algoritmos como:
-  - Regressão Logística
   - Random Forest
-  - XGBoost
 - Avaliação com métricas:
   - Acurácia
   - Precisão
